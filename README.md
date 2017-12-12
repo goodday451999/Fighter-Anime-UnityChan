@@ -11,4 +11,6 @@ If one gives punches on her by double clicking the mouse she will fall down and 
 
 The humanoid actions like breathing and eye blinking is another attraction.
 
+**To see the demo of the Fighter Girl "UnityChan"-Download all the files and folders in a single folder and open finalgame11.exe.**
+
 This is nothing but a pioneer project to develop something more interesting in Unity3D....
