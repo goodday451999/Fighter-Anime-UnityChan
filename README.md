@@ -1,7 +1,7 @@
 # Fighter Anime UnityChan
-A 3D anime charecter UnityChan is very popular as a fighter girl in Unity Asset Store.Various actions and movement have been implemented in this charecter using C# programming language.It is developed in Unity Game Engine.
+A 3D anime charecter UnityChan is very popular as a fighter girl in Unity Asset Store.Various actions and movements have been implemented in this charecter using C# programming language.It is developed in Unity Game Engine.
 
-Various actions can be controled by pressing 1,2,3,4 keys.
+Various actions can be controlled by pressing 1,2,3,4 keys.
 
 As well as by pressing "SpaceBar" she will jump.
 
