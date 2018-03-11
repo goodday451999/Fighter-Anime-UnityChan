@@ -5,11 +5,11 @@ Various actions can be controlled by pressing 1,2,3,4 keys.
 
 As well as by pressing "SpaceBar" she will jump.
 
-She can notonly walk in the four directions using forward, backward ,left and right buttons but also run and slid in some intervals in the same way along with Left Shift key.
+She can notonly walk in the four directions using forward, backward ,left and right buttons but also run and slide in some intervals in the same way along with Left Shift key.
 
 If one gives punches on her by double clicking the mouse she will fall down and again stand up with her own fashion. 
 
-The humanoid actions like breathing and eye blinking is another attraction.
+The humanoid actions like breathing and eye blinking are another attractions.
 
 **To see the demo of the Fighter Girl "UnityChan"-Download all the files and folders in a single folder and open finalDemo01.exe.**
 
